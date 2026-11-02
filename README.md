@@ -1,16 +1,21 @@
-## Hi there 👋
+## Jefersson Velásquez Mendoza
 
-<!--
-**jeferssonvm/jeferssonvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero Electrónico y Especialista en Inteligencia Artificial, enfocado en el análisis de datos y BI. Me gusta aprender cosas nuevas y buscar mejores maneras de resolver los problemas.
 
-Here are some ideas to get you started:
+Busco oportunidades como **Data Analyst / BI**. Armenia, Colombia · remoto, presencial o con traslado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Herramientas:** Python (pandas, scikit-learn) · SQL · Power BI (DAX) · Excel · Git · n8n
+
+**Machine learning:** regresión lineal y logística · árboles de decisión · random forest · clustering
+
+**También:** HTML · CSS · JavaScript · React
+
+### Proyectos
+
+- **[Supply Chain Logistics](https://github.com/jeferssonvm/Supply-Chain-Logistics):** análisis de una empresa de logística internacional con Python, SQL y Power BI.
+- **[Credit Card Fraud Detection](https://github.com/jeferssonvm/Credit_Card_Fraud_Detection):** modelo XGBoost para detectar fraudes en datos muy desbalanceados (0,17 % de fraudes).
+- **[Triaje de correos con IA](https://github.com/jeferssonvm/sistema-triaje--correos-procesamiento-agentesia):** flujo en n8n que clasifica correos y responde de forma automática.
+
+### Contacto
+
+[LinkedIn](https://www.linkedin.com/in/jeferssonvm97) · jeferssonveme.97@gmail.com
